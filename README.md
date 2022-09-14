@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ismo75
+- 👋 Hi, I’m Soumaila
 - 👀 I’m interested in conducting some administrative tasks on windows server 2016 using Power Shell 
 - 🌱 I’m currently learning gihub basic skills.
 - 💞️ I’m looking to collaborate on creatting some power shell scripts. 
